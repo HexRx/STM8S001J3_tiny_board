@@ -33,4 +33,4 @@ R3 | 4.7K | *optional, I2C pull-up*
 Components size: SMD 0603
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
