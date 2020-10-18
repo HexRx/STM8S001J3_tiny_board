@@ -6,6 +6,9 @@ A tiny dev board for [STM8S001J3](https://www.st.com/en/microcontrollers-micropr
 
 The board has the LED (D1) that is connected to pin #1 of the MCU and two (optional) pull-up resistors for the I²C bus.
 
+## Download Gerbers
+The last release [Gerbers.zip](https://github.com/HexRx/STM8S001J3_tiny_board/releases/download/1.0/Gerbers.zip)
+
 ## Pinout
 
 Left connector | Right connector
